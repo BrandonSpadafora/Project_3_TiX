@@ -134,6 +134,11 @@ These are the next features we would focus on building to enhance our platform a
 6. Incentivize users to engage platform
 7. Launch native token for platform
 
+** Please review the following solidity workbooks to see what updated code may look like for phase two **
+
+1. TIX_NFT_Marketplace_V2.sol
+2. TIX_NFT_V2.sol
+
 ### User Benefits:
 
 These next set of features would empower the user base through a functioning secondary market (peer to peer sales) and adding loyalty rewards to the user base. These benefits would encourage users to remain engaged on the platform and be a key selling point for new customer acquisition. 
