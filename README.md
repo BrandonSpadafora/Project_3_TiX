@@ -134,7 +134,7 @@ These are the next features we would focus on building to enhance our platform a
 6. Incentivize users to engage platform
 7. Launch native token for platform
 
-** Please review the following solidity workbooks to see what updated code may look like for phase two **
+** Please review the following solidity workbooks to see what updated code may look like for implentation of phase two **
 
 1. TIX_NFT_Marketplace_V2.sol
 2. TIX_NFT_V2.sol
