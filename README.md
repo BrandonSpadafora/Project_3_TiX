@@ -169,7 +169,7 @@ https://github.com/Andreasaarrestad/ethereumTicketSystem
 https://appinventiv.com/blog/cost-of-nft-marketplace-development/
 
 ## Contributers
-Michael Detwiler 
-Johnathan Boyle
-Adnan Quaderi 
+Michael Detwiler,
+Johnathan Boyle,
+Adnan Quaderi, 
 Brandon Spadafora
