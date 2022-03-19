@@ -167,3 +167,9 @@ https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon
 https://github.com/Andreasaarrestad/ethereumTicketSystem
 
 https://appinventiv.com/blog/cost-of-nft-marketplace-development/
+
+## Contributers
+Michael Detwiler 
+Johnathan Boyle
+Adnan Quaderi 
+Brandon Spadafora
