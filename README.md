@@ -86,6 +86,7 @@ Python
 ​
 The screenshots below are showing the smart contract compilation, deployment, and connection to the Metamask wallets interacting with the contract.
 ​
+
 ![smart contract compiling](https://user-images.githubusercontent.com/91380617/159125772-2c032f05-2478-4837-bbf6-27210e8deba8.png)
 ​
 ![smart contract deployment confirmation](https://user-images.githubusercontent.com/91380617/159125783-bcd5801a-c412-408b-b5cb-41511228c99c.png)
